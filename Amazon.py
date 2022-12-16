@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 
-driver=webdriver.Chrome(executable_path="C:/Users/40020730/Downloads/ChromeDriver/chromedriver.exe")
+driver=webdriver.Chrome(executable_path="C:/Users/40020730/Downloads/ChromeDriver/chromedriver.")
 
 
 
